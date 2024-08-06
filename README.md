@@ -65,12 +65,6 @@ CipherLock is a simple yet secure command-line password manager written in Pytho
 - **Data File**: Passwords are stored in `passwords.json` in an encrypted format. Protect this file from unauthorized access.
 - **Master Password**: Implement additional measures, such as hashing and secure storage, for the master password in a production environment.
 
-## Future Enhancements
-
-- **Password Generation**: Implement a feature to generate strong random passwords.
-- **Search Functionality**: Allow users to search for accounts by name or keyword.
-- **Graphical User Interface (GUI)**: Create a user-friendly GUI using libraries like `Tkinter` or `PyQt`.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
