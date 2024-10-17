@@ -1,6 +1,6 @@
 # CipherLock
 
-CipherLock is a simple yet secure command-line password manager written in Python. It helps you store, retrieve, and manage your passwords safely by using encryption to protect your sensitive information.
+CipherLock is a simple yet secure command-line password manager written in Python. It helps you store, retrieve, and manage your passwords safely by protecting your sensitive information with encryption.
 
 ## Features
 
@@ -57,7 +57,7 @@ CipherLock is a simple yet secure command-line password manager written in Pytho
 
 3. **Master Password**
 
-   You will be prompted to enter a master password upon launching the application. This master password is required to access and manage your stored passwords.
+   Upon launching the application, you will be prompted to enter a master password. This master password is required to access and manage your stored passwords.
 
 ## Security Considerations
 
