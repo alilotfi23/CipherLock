@@ -61,7 +61,7 @@ CipherLock is a simple yet secure command-line password manager written in Pytho
 
 ## Security Considerations
 
-- **Key File**: An encryption key is stored in `key.key`. Ensure this file is kept secure, as it is essential for decrypting your passwords.
+- **Key File**: An encryption key is stored in `key.key`. Please ensure this file is kept secure, as it is essential for decrypting your passwords.
 - **Data File**: Passwords are stored in `passwords.json` in an encrypted format. Protect this file from unauthorized access.
 - **Master Password**: Implement additional measures, such as hashing and secure storage, for the master password in a production environment.
 
