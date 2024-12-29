@@ -67,7 +67,7 @@ CipherLock is a simple yet secure command-line password manager written in Pytho
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. For more details, please look at the [LICENSE](LICENSE) file.
 
 ## Contributing
 
